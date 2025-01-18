@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram name="Page-1" id="GoLmop5VR-5dOC8DDNs6">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-795_d3MVqJLE8WBSSoi-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-1" target="-795_d3MVqJLE8WBSSoi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-1" value="INICIO" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="10" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-2" value="FIM" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="630" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-4" target="-795_d3MVqJLE8WBSSoi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-4" value="NUM 1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="364" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-5" target="-795_d3MVqJLE8WBSSoi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-5" value="NUM 2" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="364" y="190" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-6" target="-795_d3MVqJLE8WBSSoi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-6" value="NUM 3" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="364" y="280" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-7" target="-795_d3MVqJLE8WBSSoi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-7" value="NUM 4" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="364" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-8" target="-795_d3MVqJLE8WBSSoi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-8" value="RES = (NUM1*2) + (NUM2*2) + (NUM3*2) + (NUM4*2)&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="460" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-795_d3MVqJLE8WBSSoi-15" target="-795_d3MVqJLE8WBSSoi-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-795_d3MVqJLE8WBSSoi-15" value="RESULTADO SOMA DOS QUADRADOS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="364" y="540" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
